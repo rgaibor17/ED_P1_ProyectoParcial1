@@ -3,7 +3,7 @@ package com.mycompany.ed_p1_proyectoparcial1;
 // import java.io.IOException;
 // import javafx.fxml.FXMLLoader;
 // import javafx.stage.Stage;
-//  import javafx.scene.Parent;
+// import javafx.scene.Parent;
 // import javafx.scene.Scene;
 // import java.net.URL;
 // import java.util.ResourceBundle;
